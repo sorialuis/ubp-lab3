@@ -1,9 +1,9 @@
 ## Mi nuevo repositorio
 
--Item 1
+- Item 1
 
 Linea nueva
 
--Item 2
+- Item 2
 
-Otra Linea Nueva 
+Otra Linea Nueva
